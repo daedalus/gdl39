@@ -1,7 +1,7 @@
 # gdl39
 GDL39 Protocol
 
-DISCLAIMER: Im' not the author, I don't know who it is. I just uploaded this for research purposes.
+DISCLAIMER: I'm not the author, I don't know who it is. I just uploaded this for research purposes.
 
 Quick protype, written in perl, proof of concept only.
 
